@@ -97,7 +97,7 @@ Train the model if fine-tuning or training from scratch is needed:
 
 Here is the generated music from this project:
 
-[![Generated Music](https://drive.google.com/file/d/1-8WlxnQmw80HP4amn3Wv9C7qWa6TPEx2/view?usp=drive_link)
+[Generated Music](https://drive.google.com/file/d/1-8WlxnQmw80HP4amn3Wv9C7qWa6TPEx2/view?usp=drive_link)
 
 ---
 
