@@ -95,9 +95,8 @@ Train the model if fine-tuning or training from scratch is needed:
 
 ## Output
 
-Here is the generated music from this project:
-
-[Generated Music](https://drive.google.com/file/d/1-8WlxnQmw80HP4amn3Wv9C7qWa6TPEx2/view?usp=drive_link)
+The final output is a MIDI file containing newly generated music of project. But for mow the MIDI file is converted to an MP3 format for easier access in below link as browser cannot run mid audio file. Find an example output:
+[Generated Music](https://drive.google.com/file/d/1ca6xcuwET2tmb9tsYVlFKPKr2rvW_yrP/view?usp=drive_link)
 
 ---
 
